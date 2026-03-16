@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Pravesh Gaire 👋
 
-<!--
-**Praveshgairee/Praveshgairee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Computer Science Student  
+Interested in Cloud, DevOps, Linux, and Software Development
 
-Here are some ideas to get you started:
+## Current Focus
+- AWS Cloud fundamentals
+- Linux command line
+- Git and GitHub
+- Python
+- DevOps basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- C
+- C++
+- Java
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Linux
+- AWS fundamentals
+  
+## Current Journey
+I am currently building my Cloud & DevOps journey step by step through labs, technical practice, and projects.
+
+## Career Goal
+I am working toward entry-level roles in Cloud Support, Junior DevOps, and System Administration.
+
+## Connect With Me
+- LinkedIn: [Pravesh Gaire](https://www.linkedin.com/in/pravesh-gaire-b2b23a232)
+- Email: [gairepravesh@gmail.com](mailto:gairepravesh@gmail.com)
